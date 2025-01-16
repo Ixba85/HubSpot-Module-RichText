@@ -34,8 +34,7 @@ The module is optimized for various screen sizes:
     color: #0056b3; /* Darker blue on hover */
     text-decoration: underline;
 }
-
-
+```
 ###**Notes**
 This module is designed to be simple and user-friendly, with minimal configuration required.
 Ideal for displaying structured content sections with headings, paragraphs, and links.
@@ -45,5 +44,7 @@ Fields (title and content) are easily editable in the HubSpot editor.
   ## **License**
   
 This Markdown version is ready to be included in your README file for GitHub. Let me know if you need further adjustments!
+
+
 
   
