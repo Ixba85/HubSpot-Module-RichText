@@ -35,7 +35,9 @@ The module is optimized for various screen sizes:
     text-decoration: underline;
 }
 ```
-###**Notes**
+---
+
+## **Notes**
 This module is designed to be simple and user-friendly, with minimal configuration required.
 Ideal for displaying structured content sections with headings, paragraphs, and links.
 Fields (title and content) are easily editable in the HubSpot editor.
