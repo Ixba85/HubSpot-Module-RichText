@@ -1,0 +1,49 @@
+.paper-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  font-family: Arial, sans-serif;
+}
+
+.paper-container h1 {
+  font-size: 2em;
+  color: #333;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.paper-content {
+  font-size: 1em;
+  line-height: 1.6;
+  color: #333;
+}
+
+.paper-content h2, .paper-content h3, .paper-content h4 {
+  color: #444;
+  margin-top: 20px;
+}
+
+.paper-content p {
+  margin-bottom: 15px;
+}
+
+.paper-content a {
+  color: #0073e6;
+  text-decoration: none;
+}
+
+.paper-content a:hover {
+  text-decoration: underline;
+}
+
+/* Media query for larger screens */
+@media (min-width: 1200px) {
+  .paper-container {
+    max-width: 1000px; /* Increase the width for larger screens */
+    padding: 40px; /* Adjust the padding as needed */
+  }
+}
