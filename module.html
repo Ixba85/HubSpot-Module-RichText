@@ -1,0 +1,7 @@
+<div class="paper-container">
+  <h1>{{ module.title }}</h1>
+  <div class="paper-content">
+    {{ module.content }}
+    {% inline_rich_text field="richtext_field" value="{{ module.richtext_field }}" %}
+  </div>
+</div>
